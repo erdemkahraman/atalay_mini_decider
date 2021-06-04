@@ -1,0 +1,11 @@
+MPU9250_I2C.c:102:5:mpu9250WriteReg	32	static
+MPU9250_I2C.c:112:5:mpu9250ReadReg	24	static
+MPU9250_I2C.c:118:5:readRegisters	16	static
+MPU9250_I2C.c:125:5:writeRegister	16	static
+MPU9250_I2C.c:143:5:writeAK8963Register	16	static
+MPU9250_I2C.c:171:5:readAK8963Registers	24	static
+MPU9250_I2C.c:191:5:whoAmI	8	static
+MPU9250_I2C.c:201:5:whoAmIAK8963	8	static
+MPU9250_I2C.c:211:5:mpuBegin	8	static
+MPU9250_I2C.c:295:5:mpuReadSensor	40	static
+MPU9250_I2C.c:319:6:mpu9250init	4	static

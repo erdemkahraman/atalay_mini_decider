@@ -1,0 +1,14 @@
+main.c:447:6:Decision_and_Logger	8	static
+main.c:410:6:Inertial_Unit_Start	32	static
+main.c:552:6:user_delay_ms	0	static
+main.c:557:8:user_i2c_write	24	static
+main.c:569:8:user_i2c_read	24	static
+main.c:196:6:SystemClock_Config	80	static,ignoring_inline_asm
+main.c:108:5:main	40	static,ignoring_inline_asm
+main.c:482:6:print_sensor_data	0	static
+main.c:491:8:stream_sensor_data_forced_mode	16	static
+main.c:466:6:my_print_readings	8	static
+main.c:390:6:Pressure_Unit_Start	8	static
+main.c:520:8:stream_sensor_data_normal_mode	40	static
+main.c:588:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:605:6:Error_Handler	0	static,ignoring_inline_asm
